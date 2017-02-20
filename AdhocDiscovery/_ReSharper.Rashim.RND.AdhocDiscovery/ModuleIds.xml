@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="9419DA6A-E2B1-43A8-8318-350E7B82C167" ModuleId="Rashim.RND.AdhocDiscovery.Client" />
+  <Module PersistentId="17DC2F8E-CC75-4FD2-986B-8BAF2B76FCF4" ModuleId="Rashim.RND.AdhocDiscovery.Services" />
+  <Module PersistentId="875EED31-A3BC-45EE-A728-3C6FA4A5E48F" ModuleId="Rashim.RND.AdhocDiscovery.ServiceHost" />
+</Modules>

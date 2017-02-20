@@ -1,0 +1,9 @@
+c:\users\mudia\documents\visual studio 2013\Projects\WcfTest2\Service\bin\Debug\Service.exe.config
+c:\users\mudia\documents\visual studio 2013\Projects\WcfTest2\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+c:\users\mudia\documents\visual studio 2013\Projects\WcfTest2\Service\obj\Debug\Service.Properties.Resources.resources
+c:\users\mudia\documents\visual studio 2013\Projects\WcfTest2\Service\obj\Debug\Service.csproj.GenerateResource.Cache
+c:\users\mudia\documents\visual studio 2013\Projects\WcfTest2\Service\bin\Debug\Service.exe
+c:\users\mudia\documents\visual studio 2013\Projects\WcfTest2\Service\bin\Debug\Service.pdb
+c:\users\mudia\documents\visual studio 2013\Projects\WcfTest2\Service\obj\Debug\Service.exe
+c:\users\mudia\documents\visual studio 2013\Projects\WcfTest2\Service\obj\Debug\Service.pdb
+c:\users\mudia\documents\visual studio 2013\Projects\WcfTest2\Service\obj\Debug\Service.ServiceForm.resources

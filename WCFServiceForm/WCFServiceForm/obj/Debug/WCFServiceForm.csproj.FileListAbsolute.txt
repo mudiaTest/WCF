@@ -1,0 +1,1 @@
+c:\users\mudia\documents\visual studio 2013\Projects\WCFServiceForm\WCFServiceForm\bin\Debug\WCFServiceForm.exe.config

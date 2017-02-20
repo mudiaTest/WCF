@@ -1,0 +1,16 @@
+c:\users\rashim\documents\visual studio 2010\Projects\Rashim.RND.AdhocDiscovery\Rashim.RND.AdhocDiscovery.ServiceHost\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\rashim\documents\visual studio 2010\Projects\Rashim.RND.AdhocDiscovery\Rashim.RND.AdhocDiscovery.ServiceHost\bin\Debug\Rashim.RND.AdhocDiscovery.ServiceHost.exe.config
+c:\users\rashim\documents\visual studio 2010\Projects\Rashim.RND.AdhocDiscovery\Rashim.RND.AdhocDiscovery.ServiceHost\bin\Debug\Rashim.RND.AdhocDiscovery.ServiceHost.exe
+c:\users\rashim\documents\visual studio 2010\Projects\Rashim.RND.AdhocDiscovery\Rashim.RND.AdhocDiscovery.ServiceHost\bin\Debug\Rashim.RND.AdhocDiscovery.ServiceHost.pdb
+c:\users\rashim\documents\visual studio 2010\Projects\Rashim.RND.AdhocDiscovery\Rashim.RND.AdhocDiscovery.ServiceHost\bin\Debug\Rashim.RND.AdhocDiscovery.Services.dll
+c:\users\rashim\documents\visual studio 2010\Projects\Rashim.RND.AdhocDiscovery\Rashim.RND.AdhocDiscovery.ServiceHost\bin\Debug\Rashim.RND.AdhocDiscovery.Services.pdb
+c:\users\rashim\documents\visual studio 2010\Projects\Rashim.RND.AdhocDiscovery\Rashim.RND.AdhocDiscovery.ServiceHost\obj\x86\Debug\Rashim.RND.AdhocDiscovery.ServiceHost.exe
+c:\users\rashim\documents\visual studio 2010\Projects\Rashim.RND.AdhocDiscovery\Rashim.RND.AdhocDiscovery.ServiceHost\obj\x86\Debug\Rashim.RND.AdhocDiscovery.ServiceHost.pdb
+C:\Users\mudia\Downloads\Rashim.RND.AdhocDiscovery-noexe\Rashim.RND.AdhocDiscovery\Rashim.RND.AdhocDiscovery.ServiceHost\bin\Debug\Rashim.RND.AdhocDiscovery.ServiceHost.exe.config
+C:\Users\mudia\Downloads\Rashim.RND.AdhocDiscovery-noexe\Rashim.RND.AdhocDiscovery\Rashim.RND.AdhocDiscovery.ServiceHost\bin\Debug\Rashim.RND.AdhocDiscovery.ServiceHost.exe
+C:\Users\mudia\Downloads\Rashim.RND.AdhocDiscovery-noexe\Rashim.RND.AdhocDiscovery\Rashim.RND.AdhocDiscovery.ServiceHost\bin\Debug\Rashim.RND.AdhocDiscovery.ServiceHost.pdb
+C:\Users\mudia\Downloads\Rashim.RND.AdhocDiscovery-noexe\Rashim.RND.AdhocDiscovery\Rashim.RND.AdhocDiscovery.ServiceHost\bin\Debug\Rashim.RND.AdhocDiscovery.Services.dll
+C:\Users\mudia\Downloads\Rashim.RND.AdhocDiscovery-noexe\Rashim.RND.AdhocDiscovery\Rashim.RND.AdhocDiscovery.ServiceHost\bin\Debug\Rashim.RND.AdhocDiscovery.Services.pdb
+C:\Users\mudia\Downloads\Rashim.RND.AdhocDiscovery-noexe\Rashim.RND.AdhocDiscovery\Rashim.RND.AdhocDiscovery.ServiceHost\obj\x86\Debug\Rashim.RND.AdhocDiscovery.ServiceHost.exe
+C:\Users\mudia\Downloads\Rashim.RND.AdhocDiscovery-noexe\Rashim.RND.AdhocDiscovery\Rashim.RND.AdhocDiscovery.ServiceHost\obj\x86\Debug\Rashim.RND.AdhocDiscovery.ServiceHost.pdb
+C:\Users\mudia\Downloads\Rashim.RND.AdhocDiscovery-noexe\Rashim.RND.AdhocDiscovery\Rashim.RND.AdhocDiscovery.ServiceHost\obj\x86\Debug\Rashim.RND.AdhocDiscovery.ServiceHost.csprojResolveAssemblyReference.cache

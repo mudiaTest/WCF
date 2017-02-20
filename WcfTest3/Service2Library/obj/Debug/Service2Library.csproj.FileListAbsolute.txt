@@ -1,0 +1,8 @@
+C:\Users\mudia\Documents\Visual Studio 2013\Projects\WcfTest3\Service2Library\bin\Debug\Service2Library.dll.config
+C:\Users\mudia\Documents\Visual Studio 2013\Projects\WcfTest3\Service2Library\bin\Debug\Service2Library.dll
+C:\Users\mudia\Documents\Visual Studio 2013\Projects\WcfTest3\Service2Library\bin\Debug\Service2Library.pdb
+C:\Users\mudia\Documents\Visual Studio 2013\Projects\WcfTest3\Service2Library\obj\Debug\Service2Library.dll
+C:\Users\mudia\Documents\Visual Studio 2013\Projects\WcfTest3\Service2Library\obj\Debug\Service2Library.pdb
+C:\Users\mudia\Documents\Visual Studio 2013\Projects\WcfTest3\Service2Library\obj\Debug\Service2Library.csprojResolveAssemblyReference.cache
+C:\Users\mudia\Documents\Visual Studio 2013\Projects\WcfTest3\Service2Library\bin\Debug\Shared.dll
+C:\Users\mudia\Documents\Visual Studio 2013\Projects\WcfTest3\Service2Library\bin\Debug\Shared.pdb

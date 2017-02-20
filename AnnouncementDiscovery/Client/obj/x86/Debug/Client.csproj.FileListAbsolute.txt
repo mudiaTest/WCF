@@ -1,0 +1,8 @@
+C:\Users\mudia\Documents\Visual Studio 2013\Projects\AnnouncementDiscovery\Client\bin\Debug\Rashim.Discovery.Announcement.Client.exe.config
+C:\Users\mudia\Documents\Visual Studio 2013\Projects\AnnouncementDiscovery\Client\obj\x86\Debug\Rashim.Discovery.Announcement.Client.exe
+C:\Users\mudia\Documents\Visual Studio 2013\Projects\AnnouncementDiscovery\Client\obj\x86\Debug\Rashim.Discovery.Announcement.Client.pdb
+C:\Users\mudia\Documents\Visual Studio 2013\Projects\AnnouncementDiscovery\Client\bin\Debug\Rashim.Discovery.Announcement.Client.exe
+C:\Users\mudia\Documents\Visual Studio 2013\Projects\AnnouncementDiscovery\Client\bin\Debug\Rashim.Discovery.Announcement.Client.pdb
+C:\Users\mudia\Documents\Visual Studio 2013\Projects\AnnouncementDiscovery\Client\bin\Debug\Rashim.Discovery.Announcement.Common.dll
+C:\Users\mudia\Documents\Visual Studio 2013\Projects\AnnouncementDiscovery\Client\bin\Debug\Rashim.Discovery.Announcement.Common.pdb
+C:\Users\mudia\Documents\Visual Studio 2013\Projects\AnnouncementDiscovery\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache

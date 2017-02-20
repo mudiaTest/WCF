@@ -1,0 +1,16 @@
+c:\users\rashim\documents\visual studio 2010\Projects\Rashim.Discovery.Announcement.Solution\Rashim.Discovery.Announcement.Server\bin\Debug\Rashim.Discovery.Announcement.Server.exe.config
+c:\users\rashim\documents\visual studio 2010\Projects\Rashim.Discovery.Announcement.Solution\Rashim.Discovery.Announcement.Server\bin\Debug\Rashim.Discovery.Announcement.Server.exe
+c:\users\rashim\documents\visual studio 2010\Projects\Rashim.Discovery.Announcement.Solution\Rashim.Discovery.Announcement.Server\bin\Debug\Rashim.Discovery.Announcement.Server.pdb
+c:\users\rashim\documents\visual studio 2010\Projects\Rashim.Discovery.Announcement.Solution\Rashim.Discovery.Announcement.Server\bin\Debug\Rashim.Discovery.Announcement.Common.dll
+c:\users\rashim\documents\visual studio 2010\Projects\Rashim.Discovery.Announcement.Solution\Rashim.Discovery.Announcement.Server\bin\Debug\Rashim.Discovery.Announcement.Common.pdb
+c:\users\rashim\documents\visual studio 2010\Projects\Rashim.Discovery.Announcement.Solution\Rashim.Discovery.Announcement.Server\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\rashim\documents\visual studio 2010\Projects\Rashim.Discovery.Announcement.Solution\Rashim.Discovery.Announcement.Server\obj\x86\Debug\Rashim.Discovery.Announcement.Server.exe
+c:\users\rashim\documents\visual studio 2010\Projects\Rashim.Discovery.Announcement.Solution\Rashim.Discovery.Announcement.Server\obj\x86\Debug\Rashim.Discovery.Announcement.Server.pdb
+C:\Users\mudia\Downloads\rashim.discovery.announcement.solution-noexe\Rashim.Discovery.Announcement.Solution\Rashim.Discovery.Announcement.Server\bin\Debug\Rashim.Discovery.Announcement.Server.exe.config
+C:\Users\mudia\Downloads\rashim.discovery.announcement.solution-noexe\Rashim.Discovery.Announcement.Solution\Rashim.Discovery.Announcement.Server\bin\Debug\Rashim.Discovery.Announcement.Server.exe
+C:\Users\mudia\Downloads\rashim.discovery.announcement.solution-noexe\Rashim.Discovery.Announcement.Solution\Rashim.Discovery.Announcement.Server\bin\Debug\Rashim.Discovery.Announcement.Server.pdb
+C:\Users\mudia\Downloads\rashim.discovery.announcement.solution-noexe\Rashim.Discovery.Announcement.Solution\Rashim.Discovery.Announcement.Server\bin\Debug\Rashim.Discovery.Announcement.Common.dll
+C:\Users\mudia\Downloads\rashim.discovery.announcement.solution-noexe\Rashim.Discovery.Announcement.Solution\Rashim.Discovery.Announcement.Server\bin\Debug\Rashim.Discovery.Announcement.Common.pdb
+C:\Users\mudia\Downloads\rashim.discovery.announcement.solution-noexe\Rashim.Discovery.Announcement.Solution\Rashim.Discovery.Announcement.Server\obj\x86\Debug\Rashim.Discovery.Announcement.Server.csprojResolveAssemblyReference.cache
+C:\Users\mudia\Downloads\rashim.discovery.announcement.solution-noexe\Rashim.Discovery.Announcement.Solution\Rashim.Discovery.Announcement.Server\obj\x86\Debug\Rashim.Discovery.Announcement.Server.exe
+C:\Users\mudia\Downloads\rashim.discovery.announcement.solution-noexe\Rashim.Discovery.Announcement.Solution\Rashim.Discovery.Announcement.Server\obj\x86\Debug\Rashim.Discovery.Announcement.Server.pdb

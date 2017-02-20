@@ -1,0 +1,11 @@
+C:\Users\mudia\documents\visual studio 2013\Projects\WcfServiceLibrarySimpleTest\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\mudia\documents\visual studio 2013\Projects\WcfServiceLibrarySimpleTest\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\mudia\documents\visual studio 2013\Projects\WcfServiceLibrarySimpleTest\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\mudia\documents\visual studio 2013\Projects\WcfServiceLibrarySimpleTest\WindowsFormsApplication1\bin\Debug\WcfServiceLibrarySimpleTest.dll
+C:\Users\mudia\documents\visual studio 2013\Projects\WcfServiceLibrarySimpleTest\WindowsFormsApplication1\bin\Debug\WcfServiceLibrarySimpleTest.pdb
+C:\Users\mudia\documents\visual studio 2013\Projects\WcfServiceLibrarySimpleTest\WindowsFormsApplication1\obj\Debug\WcfSerwer.csprojResolveAssemblyReference.cache
+C:\Users\mudia\documents\visual studio 2013\Projects\WcfServiceLibrarySimpleTest\WindowsFormsApplication1\obj\Debug\WcfSerwer.csproj.GenerateResource.Cache
+C:\Users\mudia\documents\visual studio 2013\Projects\WcfServiceLibrarySimpleTest\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\mudia\documents\visual studio 2013\Projects\WcfServiceLibrarySimpleTest\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\mudia\documents\visual studio 2013\Projects\WcfServiceLibrarySimpleTest\WindowsFormsApplication1\obj\Debug\WcfSerwer.FormSerwer.resources
+C:\Users\mudia\documents\visual studio 2013\Projects\WcfServiceLibrarySimpleTest\WindowsFormsApplication1\obj\Debug\WcfSerwer.Properties.Resources.resources

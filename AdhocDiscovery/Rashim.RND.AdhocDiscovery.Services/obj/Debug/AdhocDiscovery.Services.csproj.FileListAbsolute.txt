@@ -1,0 +1,6 @@
+C:\Users\mudia\Documents\Visual Studio 2013\Projects\AdhocDiscovery\Rashim.RND.AdhocDiscovery.Services\bin\Debug\Rashim.RND.AdhocDiscovery.Services.dll.config
+C:\Users\mudia\Documents\Visual Studio 2013\Projects\AdhocDiscovery\Rashim.RND.AdhocDiscovery.Services\bin\Debug\Rashim.RND.AdhocDiscovery.Services.dll
+C:\Users\mudia\Documents\Visual Studio 2013\Projects\AdhocDiscovery\Rashim.RND.AdhocDiscovery.Services\bin\Debug\Rashim.RND.AdhocDiscovery.Services.pdb
+C:\Users\mudia\Documents\Visual Studio 2013\Projects\AdhocDiscovery\Rashim.RND.AdhocDiscovery.Services\obj\Debug\AdhocDiscovery.Services.csprojResolveAssemblyReference.cache
+C:\Users\mudia\Documents\Visual Studio 2013\Projects\AdhocDiscovery\Rashim.RND.AdhocDiscovery.Services\obj\Debug\Rashim.RND.AdhocDiscovery.Services.dll
+C:\Users\mudia\Documents\Visual Studio 2013\Projects\AdhocDiscovery\Rashim.RND.AdhocDiscovery.Services\obj\Debug\Rashim.RND.AdhocDiscovery.Services.pdb

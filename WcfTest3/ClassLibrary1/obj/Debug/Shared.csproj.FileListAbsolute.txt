@@ -1,0 +1,5 @@
+C:\Users\mudia\Documents\Visual Studio 2013\Projects\WcfTest3\ClassLibrary1\bin\Debug\Shared.dll
+C:\Users\mudia\Documents\Visual Studio 2013\Projects\WcfTest3\ClassLibrary1\bin\Debug\Shared.pdb
+C:\Users\mudia\Documents\Visual Studio 2013\Projects\WcfTest3\ClassLibrary1\obj\Debug\Shared.csprojResolveAssemblyReference.cache
+C:\Users\mudia\Documents\Visual Studio 2013\Projects\WcfTest3\ClassLibrary1\obj\Debug\Shared.dll
+C:\Users\mudia\Documents\Visual Studio 2013\Projects\WcfTest3\ClassLibrary1\obj\Debug\Shared.pdb

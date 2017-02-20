@@ -1,0 +1,6 @@
+c:\users\mudia\documents\visual studio 2013\Projects\WcfServiceLibrarySimpleTest\WcfServiceLibrarySimpleTest\bin\Debug\WcfServiceLibrarySimpleTest.dll.config
+c:\users\mudia\documents\visual studio 2013\Projects\WcfServiceLibrarySimpleTest\WcfServiceLibrarySimpleTest\bin\Debug\WcfServiceLibrarySimpleTest.dll
+c:\users\mudia\documents\visual studio 2013\Projects\WcfServiceLibrarySimpleTest\WcfServiceLibrarySimpleTest\bin\Debug\WcfServiceLibrarySimpleTest.pdb
+c:\users\mudia\documents\visual studio 2013\Projects\WcfServiceLibrarySimpleTest\WcfServiceLibrarySimpleTest\obj\Debug\WcfServiceLibrarySimpleTest.csprojResolveAssemblyReference.cache
+c:\users\mudia\documents\visual studio 2013\Projects\WcfServiceLibrarySimpleTest\WcfServiceLibrarySimpleTest\obj\Debug\WcfServiceLibrarySimpleTest.dll
+c:\users\mudia\documents\visual studio 2013\Projects\WcfServiceLibrarySimpleTest\WcfServiceLibrarySimpleTest\obj\Debug\WcfServiceLibrarySimpleTest.pdb

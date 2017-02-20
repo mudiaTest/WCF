@@ -1,0 +1,7 @@
+C:\Users\mudia\Documents\Visual Studio 2013\Projects\AnnouncementDiscovery\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\mudia\Documents\Visual Studio 2013\Projects\AnnouncementDiscovery\Services\bin\Debug\Rashim.Discovery.Announcement.Services.dll
+C:\Users\mudia\Documents\Visual Studio 2013\Projects\AnnouncementDiscovery\Services\bin\Debug\Rashim.Discovery.Announcement.Services.pdb
+C:\Users\mudia\Documents\Visual Studio 2013\Projects\AnnouncementDiscovery\Services\bin\Debug\Rashim.Discovery.Announcement.Common.dll
+C:\Users\mudia\Documents\Visual Studio 2013\Projects\AnnouncementDiscovery\Services\bin\Debug\Rashim.Discovery.Announcement.Common.pdb
+C:\Users\mudia\Documents\Visual Studio 2013\Projects\AnnouncementDiscovery\Services\obj\Debug\Rashim.Discovery.Announcement.Services.dll
+C:\Users\mudia\Documents\Visual Studio 2013\Projects\AnnouncementDiscovery\Services\obj\Debug\Rashim.Discovery.Announcement.Services.pdb

@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="3C95D04B-08E5-4D4F-AABD-EFF9B25DE12A" ModuleId="Rashim.Discovery.Announcement.Services" />
+  <Module PersistentId="900945F1-0B6C-461A-8947-651D97FE12A7" ModuleId="Rashim.Discovery.Announcement.Server" />
+  <Module PersistentId="AF689644-73BA-4AEE-AB24-968763FBAD54" ModuleId="Rashim.Discovery.Announcement.Client" />
+  <Module PersistentId="1BA01B90-64C3-414E-BAF7-045C5A2E1BFF" ModuleId="Rashim.Discovery.Announcement.Common" />
+</Modules>

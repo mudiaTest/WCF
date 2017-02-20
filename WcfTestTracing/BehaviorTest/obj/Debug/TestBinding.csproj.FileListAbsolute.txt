@@ -1,0 +1,6 @@
+C:\Users\mudia\Documents\Visual Studio 2013\Projects\WcfTestBinding\BehaviorTest\bin\Debug\TestBehavior.dll.config
+C:\Users\mudia\Documents\Visual Studio 2013\Projects\WcfTestBinding\BehaviorTest\bin\Debug\TestBehavior.dll
+C:\Users\mudia\Documents\Visual Studio 2013\Projects\WcfTestBinding\BehaviorTest\bin\Debug\TestBehavior.pdb
+C:\Users\mudia\Documents\Visual Studio 2013\Projects\WcfTestBinding\BehaviorTest\obj\Debug\TestBehavior.dll
+C:\Users\mudia\Documents\Visual Studio 2013\Projects\WcfTestBinding\BehaviorTest\obj\Debug\TestBehavior.pdb
+C:\Users\mudia\Documents\Visual Studio 2013\Projects\WcfTestBinding\BehaviorTest\obj\Debug\TestBinding.csprojResolveAssemblyReference.cache
